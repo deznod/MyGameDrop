@@ -1,0 +1,4 @@
+#Mon Sep 24 01:21:04 MSK 2018
+base.0=F\:\\MyGameDrop\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

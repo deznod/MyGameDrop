@@ -1,0 +1,6 @@
+*.idea
+*.gradel
+*.bin
+*.lock
+*.properties
+*.iml
